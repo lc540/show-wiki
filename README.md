@@ -1,4 +1,4 @@
-当前版本：v0.0.1 (2025/04/30更新)
+版本：v0.0.1 (2025/07/02 周三)
 
 ![version](https://img.shields.io/badge/show%20wiki-0.0.1-success.svg "show-wiki")
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.18-blue.svg "Spring Boot")
@@ -11,13 +11,23 @@
 ## 版本依赖
 | 组件      | 版本 |
 | ----------- | ----------- |
-| Spring Boot      | 2.7.18       |
-| Spring Cloud   | 2021.0.9        |
-| JDK   | 1.8.0_u201        |
+| Spring Boot    | 2.7.18   |
+| Spring Cloud   | 2021.0.9 |
+| JDK   | 1.8.0_u201  |
+| Nacos | x.x         |
+| Mysql | x.x         |
+| Redis | x.x         |
+| MyBatisPlus | x.x   |
+| Xxl-job  | x.x      |
+| RocketMQ | x.x      |
+| React  | x.x        |
+| Docker | x.x        |
 
 ## 目录说明
 | 目录      | 说明 |
-| ----------- | ----------- |
-| doc      | 整理的文档资料       |
-| demo   | SpringBoot简单示例项目        |
+| ----------- | -----------  |
+| boot  | 基础服务的示例       |
+| cloud | 微服务功能项目       |
+| doc   | 项目搭建的文档       |
+| web   | 前端页面的项目       |
 
