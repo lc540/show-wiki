@@ -1,0 +1,5 @@
+logging:
+  file:
+    name: boot.log
+  level:
+    root: info

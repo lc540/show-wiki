@@ -1,4 +1,4 @@
-版本：v0.0.1 (2025/07/02 周三)
+版本：v1.0.0 (2025/07/02 周三)
 
 ![version](https://img.shields.io/badge/show%20wiki-0.0.1-success.svg "show-wiki")
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.18-blue.svg "Spring Boot")
